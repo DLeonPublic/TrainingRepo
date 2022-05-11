@@ -2,3 +2,6 @@ I added this line to the top
 line 1 here
 this is line 2
 and also line 3
+Karen added a line of text!
+Karen added 2 lines of text!
+Karen added 3 lines of text!
